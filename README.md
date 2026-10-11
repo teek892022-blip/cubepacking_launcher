@@ -185,4 +185,10 @@ The repository maintainer provided the requirements, tested the tool, and guided
 This project is not officially affiliated with or endorsed by the original Soft-to-Rigid Packing project or OpenAI.
 ## License
 
-Before publishing, choose a license for your own launcher and confirm that your distribution complies with the licenses of the original project and any reused assets. No license is claimed here for the upstream code.
+This launcher is released under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+This repository is an independent utility for [Soft-to-Rigid Packing](https://github.com/yoheinakajima/soft-to-rigid-packing), originally developed by Yohei Nakajima.
+
+The original project and any third-party dependencies remain subject to their respective licenses.
+
+The launcher code and README documentation were generated with OpenAI's ChatGPT under human direction.
