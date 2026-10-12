@@ -119,6 +119,7 @@ python packing_launcher.py --n 8 --no-browser
 | `--port` | `8000` | Preferred localhost port; automatically falls back if unavailable |
 | `--no-browser` | Off | Do not open a browser automatically |
 | `--no-clean` | Off | Keep old launcher-generated files until overwritten |
+| `--random-seed` | Off | Generate a fresh random 32-bit seed; overrides `--seed` |
 
 Run `python packing_launcher.py --help` for the built-in help.
 
